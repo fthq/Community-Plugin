@@ -1,10 +1,9 @@
 # Community-Plugin
-Community-Plugin with mini games (Minecraft 1.18+).
+Community-Plugin with minigames (Minecraft 1.18+).
  
- This is a Plugin with several mini games.
+This is a Plugin with several minigames.
  
-🎨 Paintball:                                                                                                                                                             
-Teams » RED 🟥, BLUE 🟦, YELLOW 🟨, GREEN 🟩
-As host you can decide to play the game or spectate it.
-Before the game can start you need to set it up. 
-- 
+ Minigames:                                                                                                            
+🎨 Paintball                                                                                                                                                             
+☠ Deathswap   
+⚔ Manhunt
