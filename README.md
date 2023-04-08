@@ -1,5 +1,5 @@
 # Community-Plugin
-Community-Plugin with minigames (Minecraft 1.18+).
+Community-Plugin with minigames (Minecraft 1.19.4).
  
 This is a Plugin with several minigames.
  
